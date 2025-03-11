@@ -1,5 +1,4 @@
 <h3 align="center">A passionate data analyst</h3>
-<img align="right" alt="Coding" width="400" src="">
 
 # Hello World!, I'm Anand Cinenkanolu, a Data Analyst 👋🏼:
 🛜 currently Learning data analytics skills on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 
