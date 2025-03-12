@@ -1,34 +1,45 @@
 <h3 align="center">A passionate data analyst</h3>
 
-# Hello World!, I'm Anand Cinenkanolu, a Data Analyst 👋🏼:
-🛜 currently Learning data analytics skills on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 
+<img align="right" src="https://github.com/Pravesh-Agarwal/Pravesh-Agarwal/blob/main/assets/data-science-giphy.gif" width="400" height="340">
 
-# 💫 About Me:
-**Aspiring Data Analyst** | Passionate about turning data into actionable insights 📊
+<h3>
+Hi, I’m Anand Cinenkanolu, Data Analyst 
+</h3>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+- Aspiring Data Analyst** | Passionate about turning data into actionable insights 📊
+- 📊 Passionate about transforming raw data into actionable insights.
+- currently Learning data analytics skills on my own [webpage](#)<br> 👨🏼‍🎓 
+
+
+## 💻 Languages and Tools:
+
+<p>
+    <a>
+<!--         Excel -->
+        <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="excel" width="55" height="55"/>
+    </a>  
+    <a>
+<!--         Power BI -->
+        <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="PowerBI" width="55" height="55"/>
+    </a> 
+    <a>
+<!--         MySQL -->
+        <img src="https://img.icons8.com/?size=100&id=hYoELNwniGhi&format=png&color=000000" alt="mysql" width="55" height="55"/>
+    </a>
+    <a>
+<!--         Python -->
+        <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="python" width="55" height="55"/>
+    </a>  
+</p>
+
+<br>
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-cinenkanolu-data-analyst/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amudiraj603@gmail.com) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/amudiraj60e) 
 
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anand-Analyst&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anand-Analyst&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anand-Analyst&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Anand-Analyst&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/amudiraj60e) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
