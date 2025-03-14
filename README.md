@@ -6,9 +6,9 @@
 Hi, I’m Anand Cinenkanolu, Data Analyst 
 </h3>
 
-- Aspiring Data Analyst** | Passionate about turning data into actionable insights 📊
-- 📊 Passionate about transforming raw data into actionable insights.
-- currently Learning data analytics skills on my own [webpage](https://codebasics.io/portfolio/Anand-Cinenkanolu)<br> 👨🏼‍🎓 
+- 📊 Data Analyst | Passionate about turning data into actionable insights 
+- 👨🏼‍🎓 Passionate about transforming raw data into actionable insights.
+- 📊 currently Learning data analytics skills on my own [webpage](https://codebasics.io/portfolio/Anand-Cinenkanolu)<br>  
 
 
 ## 💻 Languages and Tools:
